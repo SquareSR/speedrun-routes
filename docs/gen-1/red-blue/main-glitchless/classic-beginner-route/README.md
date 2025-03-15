@@ -256,7 +256,7 @@ Bridge Rocket:
 
 ## MISTY SPLIT
 
-<img src="/docs/gen-1/images/classic/Route25.png" height=150>
+<img src="/docs/gen-1/images/classic/Route25.png" height=100>
 
 Bottom Hiker:
 - Onix: WG
@@ -608,9 +608,9 @@ Pick up Silph Scope, then open the menu:
 
 Walk east into the Pokemon Tower to meet your Rival.
 
-<img src="/docs/gen-1/images/classic/Tower1.png">  
+<img src="/docs/gen-1/images/classic/Tower1.png" height=200>  
 
-<img src="/docs/gen-1/images/classic/Tower2.png">  
+<img src="/docs/gen-1/images/classic/Tower2.png" height=200>  
 
 Lavender Rival:
 - Pidgeotto: X Acc + IB
@@ -619,9 +619,9 @@ Lavender Rival:
 - Kadabra: HD
 - Ivysaur: HD
 
-<img src="/docs/gen-1/images/classic/Tower3.png">
+<img src="/docs/gen-1/images/classic/Tower3.png" height=250>
 
-<img src="/docs/gen-1/images/classic/Tower4.png">
+<img src="/docs/gen-1/images/classic/Tower4.png" height=250>
 
 Talk to Channeler #1:
 - Gastly: RS
@@ -630,11 +630,11 @@ Talk to Channeler #1:
 
 Get the Elixer.
 
-<img src="/docs/gen-1/images/classic/Tower5.png">
+<img src="/docs/gen-1/images/classic/Tower5.png" height=175>
 
 Get the hidden Elixer and take the heal-pad.
 
-<img align="right" src="/docs/gen-1/images/classic/Tower6.png">
+<img src="/docs/gen-1/images/classic/Tower6.png" height=250>
 
 Channeler #2:
 - Gastly: RS
@@ -645,9 +645,7 @@ Channeler #3:
 Cubone's Mother:
 - Marowak: IB
 
-Enter the final floor and simply walk straight up letting the rockets see you.
-
-<img align="right" src="/docs/gen-1/images/classic/Tower7.png">
+Enter the final floor and simply walk straight up letting the rockets see you.  
 
 Rocket #1:
 - Zubat: IB
@@ -688,7 +686,7 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-<img src="/docs/gen-1/images/classic/SilphCo3.png">
+<img src="/docs/gen-1/images/classic/SilphCo3.png" height=250>
 
 Silph Rival:
 - Pidgeot: X Acc + X Speed + HD
@@ -730,15 +728,15 @@ Menu next to Snorlax:
 
 Cycling Road
 
-> NOTE: You can hold B to stop automatically moving down on Cycling Road
+> NOTE: You can hold B (or A) to stop moving down on Cycling Road. These optional trainers cost a lot of time if hit so be careful.
 
 Pick up the hidden Rare Candy then hug the right wall biking down.
 
-<img src="/docs/gen-1/images/classic/CyclingRoad.png">
+<img src="/docs/gen-1/images/classic/CyclingRoad.png" height=400>
 
 Get the hidden PPUP. You can bike straight down after getting PPUP, the next trainer has short two-tile vision and does not see you.
 
-<img src="/docs/gen-1/images/classic/PPUP.png">
+<img src="/docs/gen-1/images/classic/PPUP.png" height=400>
 
 Menu immediately after exiting the guard’s house after Cycling Road:
 - Use slot 3 Super Repel
@@ -748,7 +746,7 @@ Menu immediately after exiting the guard’s house after Cycling Road:
 - Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
 - Get on the bike and cut both trees to enter the Safari Zone
 
-<img src="/docs/gen-1/images/classic/CutBothTrees.png">
+<img src="/docs/gen-1/images/classic/CutBothTrees.png" height=250>
 
 Safari Zone
 - Get on your bike
@@ -758,7 +756,7 @@ Safari Zone
 - Optional: pick up the extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
 - Pick up the Gold Teeth and get HM03 Surf from the man in the house
 
-<img src="/docs/gen-1/images/classic/ClassicSafari.png">
+<img src="/docs/gen-1/images/classic/ClassicSafari.png" height=550>
 
 Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s gym.
 
@@ -828,7 +826,7 @@ Take the stairs to the next room.
 - Hit the switches
 - Get two candies as seen below
 
-<img src="/docs/gen-1/images/classic/Mansion3.png">
+<img src="/docs/gen-1/images/classic/Mansion3.png" height=400>
 
 - Use the two Rare Candies on Nidoking
 - Pick up the Secret Key and Dig out
@@ -933,7 +931,7 @@ Use a Super Repel when you reach the other side of the lake [here](https://gunne
 
 > If a Repel happens to run out early from extra steps, always use the next Super Repel right away.
 
-<img src="/docs/gen-1/images/classic/VictoryRoad.png">
+<img src="/docs/gen-1/images/classic/VictoryRoad.png" height=600>
 
 Indigo Plateau
 - Buy 5 Full Restores on the left before entering Elite Four
