@@ -5,14 +5,15 @@
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
-	- Optional: Download "Red Classic Helper" and see [here](https://imgur.com/gallery/d9LGAo8) for beginner settings
+	- Optional: Download "Red Classic Helper"
+        - <details><summary>Click here for beginner settings for Red Helper 1.08 </summary><img src="/docs/gen-1/images/classic/Options1.png" alt="New User Setting 1" /><img src="/docs/gen-1/images/classic/Options2.png" alt="New User Setting 2" /><img src="/docs/gen-1/images/classic/Options3.png" alt="New User Setting 3" /></details>
 	- SAVES: Download "Any% Glitchless (Classic)"
 
 ### Glossary
 
 - Moves: HA = Horn Attack, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, PS = Poison Sting, HD = Horn Drill, IB = Ice Beam, RS = Rock Slide
 	- (+ MOVE): A situational move used to finish off a pokemon when a damage range is missed
-- Livesplits has an autosplitter built in for Pokemon Red
+- Livesplits has an autosplitter built in for Pokemon Red on emulator
 	- Activate within “edit splits” and then go into settings to set your preferences for where you want to split
 - Hard Resetting **during** a Classic speedrun is not allowed
 	- If you ever take a safety save into a death during the run, then you can only **soft reset** using **A + B + Start + Select** held at once
@@ -61,21 +62,22 @@ Optional - Save the game before searching for Nidoran.
 	- L4 Nido: just throw Poke Balls
 	- L5 Spearow: just throw Poke Balls, since it outspeeds us
 
-> Next are tables you can use if you are familiar with DSUM. For your first runs you can just search randomly in the grass until you get a Nido. For more explanations on DSUM, see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs) and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
+> Next are tables you can use if you are familiar with DSUM. For your first runs you can just search randomly in the grass until you get a Nido. For more explanation on DSUM, read [this pastebin](https://pastebin.com/tV6xfzsP), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
 
 | Time-Based DSUM                                         | Step-Based DSUM                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="https://i.imgur.com/RBD6c2T.jpg" width="650"> | <img src="https://i.imgur.com/LSGYzXO.png" width="220"> |
+| <img src="/docs/gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="/docs/gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
 
 ## BROCK SPLIT
 
 Get the hidden Tree Potion.
 
-<img src="https://i.imgur.com/JWI5ieN.png">
+<img src="/docs/gen-1/images/classic/TreePotion.png">
 
 Follow this path in the forest picking up the Antidote and hidden Weedle Guy Potion.
+> Many grass tiles in the forest do not genrate encounters so it is important to follow this path exactly. 
 
-<img src="https://i.imgur.com/uZPRgtn.jpeg" height=500>
+<img src="/docs/gen-1/images/classic/Forest.png" height=500>
 
 > If 1-12 HP: Potion before the fight
 
@@ -84,8 +86,8 @@ Weedle Guy:
 
 > 13 SPC at L8 is bad special, save before Brock
 
-Swap Squirtle and Nido at some point (Nido should be the lead).
-- 1-15 HP: Potion
+Swap Squirtle and Nido at some point before Brock (Nido should be the lead).
+- 1-15 HP: Potion Squirtle
 - Use/toss Antidote
 
 Brock:
@@ -111,19 +113,18 @@ Menu on the blue tile:
 - Potion to full HP
 - Save the game
 
-<img src="https://i.imgur.com/eILQpJc.jpeg">
+<img src="/docs/gen-1/images/classic/Route3.png">
 
 Shorts Guy: [1-17 Potion on Rat, and if Ekans hits Wrap use a Potion right away]
 - Rat:
 	- Leer + HA x2
 - Ekans:
-	- Leer
-	- Swap HA to slot 1 + HA x2
+	- Leer + HA x2
 
-> After Leer is used the inputs required to swap = Select → Up → Select → A
+> Next fight we will swap HA to slot 1 and use HA = click A on Fight → "Select → Up → Select → A"
 
 Bug Catcher 2:
-- Weedle: HA + HA or Tackle
+- Weedle: Swap HA to slot 1 + HA + HA (or Tackle)
 - Kakuna: HA x2-3 + Tackle x1-2
 - Caterpie: HA x2
 - Metapod: HA x2-3 + Tackle x1-2
@@ -150,7 +151,7 @@ Exceptions:
 
 Enter Mt. Moon.
 
-<img align="right" src="https://i.imgur.com/kArB6tT.png" width=550>
+<img align="right" src="/docs/gen-1/images/classic/F1Moon.png" width=550>
 
 - Turn left to pick up **TM12 Water Gun**, then follow the path
 
@@ -173,7 +174,7 @@ Fight the Hiker:
 
 Get the **Moon Stone**, and take the ladder.
 
-<br/><img align="right" src="https://i.imgur.com/impaAww.png" width=550>
+<br/><img align="right" src="/docs/gen-1/images/classic/F3Moon.png" width=550>
 
 Continue down and right to the next ladder, then follow the path.
 
@@ -199,7 +200,7 @@ Take the Pokemon Center to heal and to set a warp point for your Escape Rope fro
 
 Pick up the hidden Rare Candy.
 
-<img src="https://i.imgur.com/Fu51K9j.jpeg">
+<img src="/docs/gen-1/images/classic/HouseRareCandy.png" height=200>
 
 Then walk up Nugget Bridge on the right to meet your Rival.
 
@@ -255,14 +256,14 @@ Bridge Rocket:
 
 ## MISTY SPLIT
 
+<img src="/docs/gen-1/images/classic/Route25.png" height=150>
+
 Bottom Hiker:
 - Onix: WG
 
 Lass:
 - Nidoran♂: Thrash
 - Nidoran♀: Thrash
-
-<img src="https://i.imgur.com/wwwP9mH.png" height=165>
 
 Jr. Trainer♂ (do not fight the two-tile vision Hiker):
 - Rattata: Thrash
@@ -322,9 +323,7 @@ Get TM28 Dig from the Rocket.
 
 Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split).
 
-<img src="https://i.imgur.com/MzLRsOm.jpeg">
-
-At 1-15 HP, use the Full Restore now.
+<img src="/docs/gen-1/images/classic/HiddenFR.png">
 
 Oddish DSUM
 - Ignore this if you already have a Paras
@@ -333,9 +332,9 @@ Oddish DSUM
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
-| <img src="https://i.imgur.com/Fm7I10i.png">           | <img src="https://i.imgur.com/fHtG2mb.png"> |
+| <img src="/docs/gen-1/images/classic/TimeBasedOddish.png">           | <img src="/docs/gen-1/images/classic/StepBasedOddish.png"> |
 
-<img src="https://i.imgur.com/aXI5GZA.jpeg">
+<img src="/docs/gen-1/images/classic/Route6.png">
 
 Jr. Trainer♀:
 - Pidgey x3: Thrash
@@ -373,12 +372,17 @@ Boat Rival:
 
 Get HM01 from the captain.
 
-Enter the [3rd Cabin](https://gunnermaniac.com/pokeworld?map=96#21/11), fight the Gentleman:
+Enter the 3rd Cabin from the left.
+
+<img src="/docs/gen-1/images/classic/GentlemanCandy1.png">
+
+<img src="/docs/gen-1/images/classic/GentlemanCandy2.png">
+
+Fight the Gentleman:
 - Growlithe: Thrash
+- Ponyta: Thrash
 
 Get the Rare Candy.
-
-<img src="https://i.imgur.com/UmZxWvL.jpeg">
 
 Exit the boat and head towards Surge's gym.
 
@@ -389,13 +393,13 @@ Walk up to the tree guarding Surge's gym.
 Cut Menu:
 - Slot 6 - Use the Full Restore on Nidoking if you haven’t already
 - Swap Potions down 5 with Repels (using select)
-- Down 2 - teach HM01 to Paras/Oddish/Dux
-- Up 3 - Teach TM28 to Paras or Squirtle
+- Down 2 - teach HM01 to Paras (or Oddish/Dux)
+- Up 3 - Teach TM28 to Paras (or Squirtle)
 - Cut the tree and enter Surge’s gym
 
 Surge Trash Cans Puzzle
 
-<img src="https://i.imgur.com/DgQyq4a.jpeg">
+<img src="/docs/gen-1/images/classic/Cans.png">
 
 - Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
@@ -416,6 +420,8 @@ Menu (outside of the bike shop):
 - Up 1 - Teach TM24 Thunderbolt over slot 3 Water Gun
 - Slot 2 - Get on the bike, cut both trees to head east into Route 9
 
+<img src="/docs/gen-1/images/classic/Bike4TTG.png">
+
 Jr. Trainer♀ ("4-Turn Thrash Girl"):
 - Oddish: HA + TB
 	- If paralyzed, use a Parlyz Heal immediately
@@ -423,7 +429,7 @@ Jr. Trainer♀ ("4-Turn Thrash Girl"):
 - Oddish: Thrash
 - Bellsprout: Thrash
 
-Bug Catcher:
+[Bug Catcher](https://gunnermaniac.com/pokeworld?map=1#300/52):
 - Caterpie: TB
 - Weedle: Thrash
 - Venonat: Thrash x1-2
